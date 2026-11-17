@@ -32,10 +32,7 @@ Columbina Introduce
 
 ---
 
-### 📄 第二個檔案：`columbina.html`（哥倫比婭詳細圖鑑頁面）
-
-請在你的專案資料夾內建立名為 **columbina.html** 的檔案，並將以下程式碼完整複製貼入：
-
+### 
 ```
 
     
